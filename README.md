@@ -1,4 +1,4 @@
-# Spotify Data Analysis with PySpark
+# Spotify Data Analysis
 
 This project analyzes Spotify track and artist datasets using **PySpark** for data processing.  
 It covers data cleaning, exploratory analysis, and machine learning models to predict:
